@@ -290,6 +290,7 @@ span {
 .projects-img img {
   width: 100%;
   display: block;
+  margin-bottom: 2%;
 }
 .projects-img img:hover {
   transform: scale(1.1);
@@ -455,6 +456,7 @@ form textarea {
   .contact-button{
     margin-left: 25%;
   }
+ 
 }
 @media (max-width: 340px) {
   :root {
@@ -477,4 +479,13 @@ form textarea {
   .contact-button{
     margin-left: 25%;
   }
+  #i1{
+    height: 188px;
+  }
+}
+#i1{
+  height: 220px;
+}
+#i3{
+  height: 221px;
 }
